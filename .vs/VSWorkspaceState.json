@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\data\\MNIST",
+    "\\data\\MNIST\\raw",
+    "\\model"
+  ],
+  "SelectedNode": "\\model\\model_Minist.pth",
+  "PreviewInSolutionExplorer": false
+}
